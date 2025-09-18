@@ -1,0 +1,24 @@
+# SQL Top 50 Problems 🚀
+
+A curated collection of the **Top 50 SQL problems** with step-by-step solutions.  
+This repo is designed for **beginners**, **students**, and **interview preparation**.  
+It covers everything from **basic queries** to **advanced SQL concepts**.
+
+---
+
+## 📌 Topics Covered
+- ✅ Basic SELECT statements  
+- ✅ Filtering with `WHERE`  
+- ✅ Sorting with `ORDER BY`  
+- ✅ Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)  
+- ✅ GROUP BY & HAVING  
+- ✅ Subqueries (Single-row & Multi-row)  
+- ✅ JOINs (INNER, LEFT, RIGHT, FULL)  
+- ✅ Set operations (UNION, INTERSECT, EXCEPT)  
+- ✅ Window functions (RANK, DENSE_RANK, ROW_NUMBER, LAG, LEAD)  
+- ✅ String & Date functions  
+- ✅ Case statements & conditional queries  
+
+---
+
+## 📂 Repository Structure
